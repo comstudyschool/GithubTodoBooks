@@ -1798,5 +1798,3 @@ git tag -a v1.0 -m "버전 1.0 릴리스"
 ---
 
 참고: git 작업순서_김범준 https://docs.google.com/document/d/1BWTM83JX0UJE3Zs2zNMatFVXGxSFKKd-/edit?usp=sharing&ouid=117151158930899135707&rtpof=true&sd=true
-
-[https://docs.google.com/document/d/1BWTM83JX0UJE3Zs2zNMatFVXGxSFKKd-/edit?usp=sharing&ouid=117151158930899135707&rtpof=true&sd=true](https://docs.google.com/document/d/1BWTM83JX0UJE3Zs2zNMatFVXGxSFKKd-/edit?usp=sharing&ouid=117151158930899135707&rtpof=true&sd=true)
