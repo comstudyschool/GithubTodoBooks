@@ -1,5 +1,6 @@
 # [집필] Git & Github 활용
 
+내용 정리: 김범준 (comstudy21@naver.com)
 
 # Git 명령어 사용 환경 설정
 
