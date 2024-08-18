@@ -1,6 +1,5 @@
 # [집필] Git & Github 활용
 
-[내용 요약](https://www.notion.so/b56eef7ee68a42809bb6a68ecb12c338?pvs=21)
 
 # Git 명령어 사용 환경 설정
 
